@@ -9,3 +9,4 @@ Instructions on how to run code:
 - You may need to run "flutter pub get" in terminal for it to work.
 - Run "flutter run" in terminal and choose Chrome to test.
 ** We have tested on an emulator with Android Studio, but MusicSpace is meant to be a website, therefore, the display on the emulator is overflow.
+Main is in lib folder
